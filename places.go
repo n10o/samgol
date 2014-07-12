@@ -10,7 +10,7 @@ func GetPlace() string {
     rand.Seed(time.Now().Unix())
     places := []string{
         "World",
-        "Singapore"
+        "Singapore",
         "渋谷",
         "函館",
     }
